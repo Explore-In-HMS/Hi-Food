@@ -1,6 +1,6 @@
 # HiFood
 
-![Mockup-Images](https://git.huawei.com/hms---turkey-dtse-branch/hifood/raw/development/app/src/main/res/raw/mock.png)
+![Mockup-Images](https://github.com/Explore-In-HMS/Hi-Food/tree/master/app/src/main/res/raw/mock.png)
 
 # :notebook_with_decorative_cover: Intruduction
 
@@ -17,47 +17,47 @@ As a user, I can use the application as a visitor with anonymous login without c
 to complete the account creation, I should fill in the age, height, weight and date of birth information required to calculate the daily calorie needed and log into the application.
 
 
-![Auth](https://git.huawei.com/hms---turkey-dtse-branch/hifood/raw/development/app/src/main/res/raw/auth.gif)
+![Auth](https://github.com/Explore-In-HMS/Hi-Food/tree/master/app/src/main/res/raw/auth.gif)
 
 ## Recognize food on the table
 On the main screen of the app, I can search for any recipe or scan the ingredients I have, to list which recipes are more suitable.
 In the recipe I searched or scanned for, I can read the recipe or listen via text-to-speech feature or  watch the video of the recipe with the in-app purchase service and also I am able to add recipe to my list. 
 
 
-![recognize](https://git.huawei.com/hms---turkey-dtse-branch/hifood/raw/development/app/src/main/res/raw/recognize.gif)
+![recognize](https://github.com/Explore-In-HMS/Hi-Food/tree/master/app/src/main/res/raw/recognize.gif)
 
 ## Scan barcode to find convenience food
 To record convenience food to daily summary, I scan the barcode of it and see the details. Then, I can add it to my diary for calory calculation.
 
-![scan](https://git.huawei.com/hms---turkey-dtse-branch/hifood/raw/development/app/src/main/res/raw/scan.gif)
+![scan](https://github.com/Explore-In-HMS/Hi-Food/tree/master/app/src/main/res/raw/scan.gif)
 
 
 ## Calculate needed calories 
 I can view the distribution and summary of my calorie account according to nutritional values in the profile menu.
 
-![Needed Calories](https://git.huawei.com/hms---turkey-dtse-branch/hifood/raw/development/app/src/main/res/raw/summary.jpg)
+![Needed Calories](https://github.com/Explore-In-HMS/Hi-Food/tree/master/app/src/main/res/raw/summary.jpg)
 
 
 ## Records food users eats - summarize calories info daily
 When I add the recipe to my list, by specifying the portion I eat and ensure that the nutritional values are used in my daily calorie account.
 
-![Needed Calories](https://git.huawei.com/hms---turkey-dtse-branch/hifood/raw/development/app/src/main/res/raw/adding.gif)
+![Needed Calories](https://github.com/Explore-In-HMS/Hi-Food/tree/master/app/src/main/res/raw/adding.gif)
 
  
 ## Show nearby markets on map 
 If there is an ingredient I need to buy according to the recipe, nearby markets displays on the map. 
 
-![map](https://git.huawei.com/hms---turkey-dtse-branch/hifood/raw/development/app/src/main/res/raw/map.gif)
+![map](https://github.com/Explore-In-HMS/Hi-Food/tree/master/app/src/main/res/raw/map.gif)
 
 ## Text to speech
 I can even listen the recipe details by text to speech.
 
-![ttts](https://git.huawei.com/hms---turkey-dtse-branch/hifood/raw/development/app/src/main/res/raw/recipes.gif)
+![ttts](https://github.com/Explore-In-HMS/Hi-Food/tree/master/app/src/main/res/raw/recipes.gif)
 
 ## Video watch - IAP
 Watch the video of the recipe with the in-app purchase service
 
-![iap-video](https://git.huawei.com/hms---turkey-dtse-branch/hifood/raw/development/app/src/main/res/raw/iap.gif)
+![iap-video](https://github.com/Explore-In-HMS/Hi-Food/tree/master/app/src/main/res/raw/iap.gif)
 
  ## :question: What You Will Need 
 
