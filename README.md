@@ -24,7 +24,7 @@ On the main screen of the app, I can search for any recipe or scan the ingredien
 In the recipe I searched or scanned for, I can read the recipe or listen via text-to-speech feature or  watch the video of the recipe with the in-app purchase service and also I am able to add recipe to my list. 
 
 
-![recognize](https://github.com/Explore-In-HMS/Hi-Food/blob/master/app/src/main/res/raw/recognize.gif)
+![recognize](https://github.com/Explore-In-HMS/Hi-Food/blob/master/app/src/main/res/raw/filter.gif)
 
 ## Scan barcode to find convenience food
 To record convenience food to daily summary, I scan the barcode of it and see the details. Then, I can add it to my diary for calory calculation.
