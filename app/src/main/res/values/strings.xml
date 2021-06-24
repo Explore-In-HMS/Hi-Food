@@ -1,0 +1,79 @@
+<!--
+  ~ Copyright 2020. Huawei Technologies Co., Ltd. All rights reserved.
+  ~
+  ~  Licensed under the Apache License, Version 2.0 (the "License");
+  ~  you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~ http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~  limitations under the License.
+  ~
+  -->
+
+<resources>
+    <string name="app_name">HiFood</string>
+    <string name="main">Main</string>
+    <string name="profile">Profile</string>
+    <string name="scan">Scan</string>
+    <string name="recipe_name">Recipe Name</string>
+    <string name="speak">SPEAK</string>
+    <string name="huawei_id_login">Huawei ID Login</string>
+    <string name="anonymous_login">Anonymous Login</string>
+    <string name="click_to_get_data">Click to get data</string>
+    <string name="recipe_image">recipe-image</string>
+    <string name="speaker_icon">speaker-icon</string>
+    <string name="find_your_recipe">Find Your Recipe</string>
+    <string name="explanation">Put your foods on the table before taking photo. \n We will make the best suggestion according to your basic foods.</string>
+    <string name="scan_convenience">Scan Barcode of Convenience</string>
+    <string name="permission_required_text">Permission Required</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="create_account">Create Account</string>
+    <string name="gender_question">What is your gender?</string>
+
+    <string name="choose_gender">Choose your gender</string>
+    <string name="birthdate_question">What is your date of birth?</string>
+    <string name="weight_question">What is your weight?</string>
+    <string name="height_question">What is your height?</string>
+    <string name="create_account_btn">Create Account</string>
+    <string name="log_in">log in</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="incorrect_password">incorrect password !</string>
+    <string name="login">LOGIN</string>
+    <string name="first_time_here_sign_up">First time here? Sign Up!</string>
+    <string name="log_in_anonymously">Log in Anonymously</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="click_food_to_find_where_you_can_buy_it">Click food to find where you can buy it!</string>
+    <string name="add_to_my_list">Add to My List</string>
+    <string name="calories">Calories</string>
+    <string name="taken_calories">Taken Calories: </string>
+    <string name="carbohydrates">Carbohydrates</string>
+    <string name="fat">Fat</string>
+    <string name="protein">Protein</string>
+    <string name="available_food_is_not_found">Available food is not found.</string>
+    <string name="scanned_food_could_not_be_found">Scanned food could not be found</string>
+    <string name="purchase">Purchase</string>
+    <string name="recipes">Recipes</string>
+    <string name="proportion_title">Proportion Value of Your Meal</string>
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="filter_button">filter-button</string>
+    <string name="filter_it">Filter</string>
+    <string name="summary">Summary</string>
+    <string name="you_can_buy_blank_in_these_places_around_you">You can buy blank in these places\naround you:</string>
+    <string name="add_to_my_diary">Add to my diary</string>
+    <string name="click_to_watch_recipe_video">Click to watch recipe video</string>
+    <string name="status_of_needed_calories_today">Status of Needed Calories Today</string>
+    <string name="recommend">This calculation is depend on most commonly used estimation formulas in BMR. It is recommended to consult a doctor for serious weight issues.</string>
+    <string name="explanation_recipe_advice">According to recognized foods, these recipes can be prepared.</string>
+
+    <string-array name="gender_array">
+        <item>Female</item>
+        <item>Male</item>
+    </string-array>
+</resources>
